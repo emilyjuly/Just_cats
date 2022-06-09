@@ -5,3 +5,7 @@ Repositório destinado ao projeto de integração de API no Javascript, desenvol
 ### Link da API
 https://api.thecatapi.com/v1/images/search/
 
+#### GIF exemplo 
+
+/assets/gif.mp4
+
