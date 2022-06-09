@@ -7,5 +7,5 @@ https://api.thecatapi.com/v1/images/search/
 
 #### GIF exemplo 
 
-/assets/gif.mp4
+em /assets/gif.mp4
 
